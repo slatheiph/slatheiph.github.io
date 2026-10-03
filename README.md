@@ -75,7 +75,7 @@ footer{margin-top:44px;border-top:1px solid var(--line);padding:18px 0 30px;font
 <main class="wrap">
 
 <section>
-  <h2><em>// 00</em>Profile</h2>
+  <h2><em>// </em>Profile</h2>
   <p>Senior IT professional with over a decade running infrastructure and service delivery in telecoms and enterprise environments at LM Ericsson,Proven record of aligning technology strategy with business objectives, optimizing infrastructure for efficiency and cost reduction, championing enterprise-wide cybersecurity, and embedding ITIL and PRINCE2 governance frameworks across multi-country operations. Combines deep operational credibility (NOC, infrastructure, vendor and change management), manage the vendors behind our services, and keep the infrastructure dependable, compliant and cost-efficient.</p>
   <p>I came up through field engineering, support and the NOC, so I understand how problems actually unfold and how to fix them quickly. Combined with <strong>ITIL and PRINCE2</strong> discipline, an MBA in Business Analysis &amp; Strategy, and a growing practice in <strong>AWS, scripting and containers</strong>, that lets me run stable operations today while modernizing them for tomorrow.</p>
   <div class="stats">
@@ -87,7 +87,7 @@ footer{margin-top:44px;border-top:1px solid var(--line);padding:18px 0 30px;font
 </section>
 
 <section>
-  <h2><em>// 01</em>Core Strengths</h2>
+  <h2><em>// </em>Core Strengths</h2>
   <div class="chips">
     <span class="hl">Cloud Infrastructure &amp; DevOps (AWS, Docker, Kubernetes)</span>
     <span class="hl">Scripting &amp; Automation</span>
@@ -103,7 +103,7 @@ footer{margin-top:44px;border-top:1px solid var(--line);padding:18px 0 30px;font
 </section>
 
 <section>
-  <h2><em>// 02</em>Selected Achievements</h2>
+  <h2><em>// </em>Selected Achievements</h2>
   <ul>
     <li>Hold sole change authorization across a multi-country West Africa IT estate as chair of the Change Advisory Board.</li>
     <li>Re-imaged and deployed <strong>500+ workstations</strong> at Ericsson Nigeria in a single migration programme (2019).</li>
@@ -113,12 +113,12 @@ footer{margin-top:44px;border-top:1px solid var(--line);padding:18px 0 30px;font
 </section>
 
 <section>
-  <h2><em>// 03</em>Cloud &amp; DevOps</h2>
+  <h2><em>// </em>Cloud &amp; DevOps</h2>
   <p>Building hands-on AWS skills alongside certified Linux administration, and working with the IT team on Docker and Kubernetes in Ericsson's infrastructure planning in a support capacity.</p>
 </section>
 
 <section>
-  <h2><em>// 04</em>Professional Experience</h2>
+  <h2><em>// </em>Professional Experience</h2>
 
   <article class="job">
     <h3>IT Client Manager, West Africa</h3>
@@ -172,7 +172,7 @@ footer{margin-top:44px;border-top:1px solid var(--line);padding:18px 0 30px;font
 </section>
 
 <section>
-  <h2><em>// 05</em>Key Projects</h2>
+  <h2><em>// </em>Key Projects</h2>
   <div class="grid">
     <div class="card"><div class="yr">2019</div><h3>MWP Re-Imaging</h3><p>Migrated 500+ workstations from MWP II to MWP-C/MWP-M.</p></div>
     <div class="card"><div class="yr">2017</div><h3>Ericsson Site Relocation</h3><p>Managed decommissioning and re-commissioning of IT infrastructure between offices, including all technical amendments.</p></div>
@@ -182,7 +182,7 @@ footer{margin-top:44px;border-top:1px solid var(--line);padding:18px 0 30px;font
 </section>
 
 <section>
-  <h2><em>// 06</em>Education &amp; Certifications</h2>
+  <h2><em>// </em>Education &amp; Certifications</h2>
   <div class="two">
     <div>
       <h3 class="sub">Education</h3>
@@ -215,7 +215,7 @@ footer{margin-top:44px;border-top:1px solid var(--line);padding:18px 0 30px;font
 </section>
 
 <section>
-  <h2><em>// 07</em>Referees</h2>
+  <h2><em>// </em>Referees</h2>
   <div class="grid">
     <div class="card ref">
       <div class="nm">Mr Yinka Atunda</div>
