@@ -307,7 +307,7 @@
 
       <div class="node">
         <div class="node-head">
-          <div><div class="node-role">Senior ICT Engineer / IT Client Manager — West Africa</div><div class="node-org">L M Ericsson Nigeria</div></div>
+          <div><div class="node-role">IT Client Manager — West Africa</div><div class="node-org">L M Ericsson Nigeria</div></div>
           <div class="node-date">Nov 2017 – Present</div>
         </div>
         <ul>
@@ -397,7 +397,8 @@
           <li>Information Systems Audit, Control &amp; Assurance — HKUST</li>
           <li>VCE Certified Professional Associate</li>
           <li>Linux and Linux System Administration Certified</li>
-          <li>IBM AI Developer (in-view)</li>
+          <li>lean six sigma Yellow belt Certified</li>
+          <li>IBM AI Developer </li>
         </ul>
       </div>
     </div>
